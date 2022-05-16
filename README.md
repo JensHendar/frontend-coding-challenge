@@ -14,5 +14,5 @@ Results:
 
 Challenge instructions:
 - Fork this repo
-- Complete the challenge
+- Complete the challenge (and edit the read me with installation/running instructions)
 - Email jobb@spinit.se / jens.hendar@spinit.se
