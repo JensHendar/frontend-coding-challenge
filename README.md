@@ -3,7 +3,7 @@
 Using the https://reqres.in/ API, create a login, create user and logged in view.
 
 Requirements:
-- React
+- React (Preferably Typescript)
 - Mobile friendly
 
 Results:
