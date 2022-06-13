@@ -6,9 +6,12 @@ Requirements:
 - React (Preferably Typescript)
 - Mobile friendly
 
+Extra credits:
+- SCSS, CSS modules or other styling/css framework or tool
+
 Results:
 - A login view with username and password fields
-- A create user view with username and password fields as a minimum
+- A "create user" view with username and password fields as a minimum
 - On successful login a table of products using this url: https://reqres.in/api/products
 
 
