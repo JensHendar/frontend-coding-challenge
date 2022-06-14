@@ -6,8 +6,7 @@ Requirements:
 - React (Preferably Typescript)
 - Mobile friendly
 
-Extra credits:
-- SCSS, CSS modules or other styling/css framework or tool
+Extra credits if you style the site using a more advanced method than a standard CSS stylesheet.
 
 Results:
 - A login view with username and password fields
